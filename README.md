@@ -22,11 +22,12 @@ Aplikasi Toko Online Berbasis Website ini dibangun menggunakan bahasa pemrograma
 <img src="img/ss3.png">
 <img src="img/ss4.png">
 
-### Web Version
+- Admin
 <img src="img/admin.png">
 <img src="img/admin2.png">
 <img src="img/admin3.png">
 
+### Web Version
 
 
 ## Copyright
