@@ -1,0 +1,91 @@
+#slider {
+  margin-top: 30px;
+}
+#slider .item {
+  height: 400px;
+}
+
+#slide1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../product/product1.jpg") center;
+}
+#slide2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../product/pria.jpeg") center;
+}
+#slide3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../product/batikwanita.jpg") center;
+}
+
+.carousel-caption {
+  font-size: 20px;
+}
+
+.carousel-caption h4 {
+  font-size: 30px;
+}
+
+/* ============= card ============ */
+/* .card {
+  border: 2px solid;
+} */
+
+.card:hover {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+  -moz-transform: scale(1.08);
+}
+
+.star ul li {
+  list-style-type: none;
+  float: left;
+}
+
+/* =================== NAVIGASI =============== */
+.mt-2 {
+  margin-top: 20px;
+}
+
+/* ================ pelanggan =========== */
+.detail-pelanggan p {
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 20px;
+}
+
+/* ================ SELECT ============ */
+
+.select-kategori-produk {
+  margin-top: 20px;
+}
+
+.select-kategori-produk select {
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  font-size: 1.5rem;
+  margin-left: 25px;
+  width: 120px;
+  height: 30px;
+  font-weight: bold;
+  outline: none;
+  border-radius: 5px;
+  background: black;
+  color: white;
+}
+
+/* =================== USER ======= */
+
+#input-keranjang-user {
+  border-radius: 10px;
+  text-align: center;
+  outline: none;
+}
+
+#metode_pembayaran {
+  height: 30px;
+  font-weight: bold;
+  border-radius: 10px;
+  outline: none;
+  text-align: center;
+  margin-bottom: 10px;
+}
